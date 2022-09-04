@@ -1,7 +1,7 @@
-# Harun Project 
+# Harun Projet 
 
-## Description
- Harun ReadME Genrator 
+ ## Description
+ Read ME
 
  ##Table of Contents 
 
@@ -17,10 +17,10 @@
  npm i
 
  ## Liscence
-![Github License](https://img.shields.io/badge/license-undefined-blue.svg)
+![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
 
  ## Usage
- Frceer
+ read me gernerator 
 
  ## Contribution 
 Harun
