@@ -45,6 +45,12 @@ const questions = [
         name: 'userEmail',
         message: 'What is your email address?',
     },
+    {
+        type: 'list',
+        choices: ["MIT","ISC","GPL","APACHE 2.0"],
+        name: 'license',
+        message: 'Please select a liscense for this project'
+    },
 
 
 ];
