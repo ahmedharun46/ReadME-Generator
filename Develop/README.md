@@ -1,7 +1,7 @@
-# Harun Projet 
+# Harun ReadMeGenerator!
 
  ## Description
- Read ME
+ Create a read me for users
 
  ##Table of Contents 
 
@@ -17,13 +17,14 @@
  npm i
 
  ## Liscence
-![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
-
+![Github License](https://img.shields.io/badge/license-GPL-blue.svg)
+Licese Guidance: 
+[License Overview](https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633)
  ## Usage
- read me gernerator 
+ Helps user create a professional read me for their projects
 
  ## Contribution 
-Harun
+Harun 
 
 ## Tests
 Manual
